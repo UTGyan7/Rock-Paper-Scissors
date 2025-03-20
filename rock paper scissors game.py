@@ -1,4 +1,7 @@
-# rock paper scissors game
+# The `# rock paper scissors game` is a comment in Python code that serves as a brief description or
+# title for the following code block. In this case, it indicates that the code below is implementing a
+# rock-paper-scissors game in Python. Comments in code are ignored by the Python interpreter and are
+# used to provide information or context about the code for developers reading the code.
 
 import time
 import os
